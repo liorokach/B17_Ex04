@@ -1,0 +1,5 @@
+C:\Users\lioro\Documents\Visual Studio 2015\Projects\B17 Ex04 Lior 312484900 Oz\interface\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\lioro\Documents\Visual Studio 2015\Projects\B17 Ex04 Lior 312484900 Oz\interface\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\lioro\Documents\Visual Studio 2015\Projects\B17 Ex04 Lior 312484900 Oz\interface\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\lioro\Documents\Visual Studio 2015\Projects\B17 Ex04 Lior 312484900 Oz\interface\obj\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\lioro\Documents\Visual Studio 2015\Projects\B17 Ex04 Lior 312484900 Oz\interface\obj\Debug\Ex04.Menus.Interfaces.csprojResolveAssemblyReference.cache
